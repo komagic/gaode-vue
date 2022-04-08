@@ -1,0 +1,8 @@
+{
+  "name": "gaode-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5f7b5ece"
+}
